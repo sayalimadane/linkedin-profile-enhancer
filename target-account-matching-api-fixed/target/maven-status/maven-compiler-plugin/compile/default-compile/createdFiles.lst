@@ -1,0 +1,8 @@
+com\forceequals\api\service\AuthService.class
+com\forceequals\api\model\User.class
+com\forceequals\api\controller\AuthController.class
+com\forceequals\api\controller\EnhanceController.class
+com\forceequals\api\model\Account.class
+com\forceequals\api\TargetAccountMatchingApiApplication.class
+com\forceequals\api\service\AccountService.class
+com\forceequals\api\controller\AccountController.class
